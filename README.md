@@ -1,6 +1,3 @@
-[![Build Status](https://travis-ci.org/tumf/ansible-role-systemd-service.svg)](https://travis-ci.org/tumf/ansible-role-systemd-service)
-[![Ansible Galaxy](http://img.shields.io/badge/ansible--galaxy-systemd--service-blue.svg)](https://galaxy.ansible.com/tumf/systemd-service/)
-
 systemd-service - Ansible role
 ===============
 
@@ -13,7 +10,7 @@ Register services to systemd.
 Install
 -------
 
-    $ ansible-galaxy install tumf.systemd-service
+    $ ansible-galaxy install youyo.systemd-service
 
 
 Role Variables
@@ -108,3 +105,4 @@ Author Information
 ------------------
 
 > @tumf
+> @youyo
